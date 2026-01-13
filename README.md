@@ -1,4 +1,4 @@
-# Full-Stack File Management System
+# Full-Stack Cloud File Collaboration Platform 
 
 A secure, scalable file management web application built with Spring Boot and React.js, enabling users to upload, view, and delete files with robust authentication and cloud storage integration.
 
